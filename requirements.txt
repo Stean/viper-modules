@@ -84,7 +84,7 @@ oletools==0.54.1
 
 # MISP
 git+https://github.com/MISP/PyTaxonomies.git#egg=PyTaxonomies
-git+https://github.com/MISP/PyMISPGalaxies.git#egg=PyMISPGalaxies
+git+https://github.com/MISP/PyMISPGalaxies.git@a43655ba#egg=PyMISPGalaxies
 
 # EXIF Module
 ocrd-pyexiftool==0.2.0
